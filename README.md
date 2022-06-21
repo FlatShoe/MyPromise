@@ -1,6 +1,3 @@
----
-theme: cyanosis
----
 ## 前言
 如果你对 Promise 一无所知，[Promise 入门，不妨看看这篇文章](https://juejin.cn/post/7057069041558503461)。当我们知道 `什么是 Promise`、 `Promise 解决了什么问题`，除了日常工作的使用之外，手写 Promise 也必然是需要掌握的一个知识点，今天就跟着大家从 0 实现一个 Promise
 
